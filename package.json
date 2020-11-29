@@ -1,0 +1,9 @@
+{
+    "name": "demijohn",
+    "version": "0.0.1",
+    "description": "Simplistic storage based on React hooks.",
+    "homepage": "https://demijohn.io",
+    "devDependencies": {
+        "webpack": "^5.9.0"
+    }
+}
